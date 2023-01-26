@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/impact/static/css/main.b2daaf0d.css",
+    "main.js": "/impact/static/js/main.0f4fdf0a.js",
+    "static/js/787.a7d06ab8.chunk.js": "/impact/static/js/787.a7d06ab8.chunk.js",
+    "static/media/s2.jpg": "/impact/static/media/s2.741dae393eae86b07ebd.jpg",
+    "static/media/s3.jpg": "/impact/static/media/s3.989428b360e76a735a18.jpg",
+    "static/media/s1.jpg": "/impact/static/media/s1.508856f2473bc7c53fdc.jpg",
+    "static/media/Mark Zuckerberg.webp": "/impact/static/media/Mark Zuckerberg.9172fff18f9dc0d1e999.webp",
+    "static/media/Elon Musk.webp": "/impact/static/media/Elon Musk.2ef692c8e2bc509c2c0f.webp",
+    "static/media/Bill-Gates-2011.webp": "/impact/static/media/Bill-Gates-2011.d74117ecac13f63e6784.webp",
+    "static/media/about-2.jpg": "/impact/static/media/about-2.a0c489affefd5b07c1bc.jpg",
+    "static/media/about.jpg": "/impact/static/media/about.0122e15433176d677cb3.jpg",
+    "static/media/books-3.jpg": "/impact/static/media/books-3.3bd107d524d9950d84f3.jpg",
+    "static/media/product-2.jpg": "/impact/static/media/product-2.e03676392c46a11a43b5.jpg",
+    "static/media/books-1.jpg": "/impact/static/media/books-1.0cdba8895456d133d483.jpg",
+    "static/media/branding-3.jpg": "/impact/static/media/branding-3.b7db10edbeaf1b2636f1.jpg",
+    "static/media/app-2.jpg": "/impact/static/media/app-2.6da4d40f3db54f106a2d.jpg",
+    "static/media/app-1.jpg": "/impact/static/media/app-1.802eed785283b8b9771e.jpg",
+    "static/media/product-1.jpg": "/impact/static/media/product-1.3975dff84a3e21a541e2.jpg",
+    "static/media/books-2.jpg": "/impact/static/media/books-2.e35be653c50c959ede7b.jpg",
+    "static/media/branding-2.jpg": "/impact/static/media/branding-2.fb2f2584ecb4a3699148.jpg",
+    "static/media/abhi4.jpg": "/impact/static/media/abhi4.612a01b8a237642e110a.jpg",
+    "static/media/app-3.jpg": "/impact/static/media/app-3.1328908345eb07514079.jpg",
+    "static/media/branding-1.jpg": "/impact/static/media/branding-1.998d6e9893f2fbaedd76.jpg",
+    "static/media/product-3.jpg": "/impact/static/media/product-3.74bf18a3643851c49388.jpg",
+    "static/media/stats-img.svg": "/impact/static/media/stats-img.af30ee327269f5ffb5a4c7153d393b59.svg",
+    "static/media/hero-img.svg": "/impact/static/media/hero-img.3afc0b71c62b495326fb4f713da9f97b.svg",
+    "index.html": "/impact/index.html",
+    "main.b2daaf0d.css.map": "/impact/static/css/main.b2daaf0d.css.map",
+    "main.0f4fdf0a.js.map": "/impact/static/js/main.0f4fdf0a.js.map",
+    "787.a7d06ab8.chunk.js.map": "/impact/static/js/787.a7d06ab8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2daaf0d.css",
+    "static/js/main.0f4fdf0a.js"
+  ]
+}
